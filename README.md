@@ -22,25 +22,14 @@ Objectif : pentest + bug bounty + secteur financier.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
----
-
-## 📁 Projets
-
-| Projet | Description | Statut |
-|--------|-------------|--------|
-| [port_service.py](./port_service.py) | Identifie le service associé à un port | ✅ En ligne |
-
-*(d'autres projets arrivent au fil des mois)*
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Skyruu&show_icons=true&theme=dark)
 ---
 
 ## 📈 Progression
 
 | Plateforme | Statut |
 |------------|--------|
-| OverTheWire Bandit | 🔄 En cours (niveau 5) |
+| OverTheWire Bandit | 🔄 En cours |
 | Root-Me | 🔄 En cours |
 | Cisco Networking Basics | 🔄 En cours |
 | HackTheBox | ⏳ Prévu été 2026 |
@@ -51,8 +40,7 @@ Objectif : pentest + bug bounty + secteur financier.
 ## 🎯 Objectif
 
 > Pentest junior + bug bounty d'ici septembre 2027.
-> Purple Teamer dans le secteur financier à terme.
 
 ---
 
-*Profil en construction depuis février 2026 — les commits racontent la progression.*
+*Profil en construction depuis février 2026.*
